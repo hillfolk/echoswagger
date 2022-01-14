@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"time"
 
+	"github.com/hillfolk/echoswagger"
 	"github.com/labstack/echo"
-	"github.com/pangpanglabs/echoswagger"
 )
 
 type StoreController struct{}
